@@ -4,6 +4,7 @@ Driven by this passion, my ultimate goal is to develop innovative solutions that
 
 In my repositores you may find:
 - 🔭 DL Audio projects: ASR, SourceSeparation, Text-To-Speech, Vocoder, AntiSpoofing
+- 🤓 CV project: Subject Driven Image Generation
 - 🌱 Other ML/DL studying projects in Classic ML and NLP field
 - 👯 Some other unneccesary projects such as chatbots or mobile applications...
 
